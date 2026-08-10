@@ -1,0 +1,51 @@
+export const categories = [
+  {
+    id: 'cat-1',
+    title: 'Exercise',
+    taskCount: 12,
+    image: require('../assets/AvatarFloorSitting.png'),
+    accent: '#FDE2E4',
+  },
+  {
+    id: 'cat-2',
+    title: 'Study',
+    taskCount: 12,
+    image: require('../assets/AvatarAtDesk.png'),
+    accent: '#D9EFFF',
+  },
+  {
+    id: 'cat-3',
+    title: 'Reading',
+    taskCount: 8,
+    icon: 'book-outline',
+    accent: '#EADCF8',
+  },
+  {
+    id: 'cat-4',
+    title: 'Coding',
+    taskCount: 15,
+    icon: 'code-slash-outline',
+    accent: '#DDEFFB',
+  },
+  {
+    id: 'cat-5',
+    title: 'Meditation',
+    taskCount: 6,
+    icon: 'leaf-outline',
+    accent: '#DFF5E1',
+  },
+  {
+    id: 'cat-6',
+    title: 'Cooking',
+    taskCount: 9,
+    icon: 'restaurant-outline',
+    accent: '#FFE8D6',
+  },
+  {
+    id: 'cat-7',
+    title: 'Music',
+    taskCount: 5,
+    icon: 'musical-notes-outline',
+    accent: '#FDE8EF',
+  },
+];

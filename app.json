@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Task_Manager",
+    "slug": "Task_Manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    
+      "edgeToEdgeEnabled": true
+    }
+   
+    
+  }
+
